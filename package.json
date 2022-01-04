@@ -1,0 +1,22 @@
+{
+  "name": "javascript_lessons",
+  "version": "1.0.0",
+  "description": "This will contain many javascript lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshwar1993/javascript_lessons.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Rajeshwar Rudra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshwar1993/javascript_lessons/issues"
+  },
+  "homepage": "https://github.com/rajeshwar1993/javascript_lessons#readme"
+}
